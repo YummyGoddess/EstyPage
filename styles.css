@@ -25,7 +25,7 @@ color: aqua;
     background-color: #3c3c5d;
     margin: 0px auto;
     height: 900px;
-    padding: 100px; 
+    padding: 100px;
 }
 .header{
     width: 1700px;
@@ -38,6 +38,11 @@ color: aqua;
     background-color: red;
     margin: 10px auto;
     height: 50px;
+    text-align: center;
+    word-spacing:
+    display:inline;
+    word-spacing: 10px;
+
 }
 .main{
     width: 996px;
@@ -52,5 +57,13 @@ color: aqua;
     margin: 10px auto;
     height: 500px;
     display: inline-block;
+}
+.pics {
+  display: inline-block;
+
+}
+.pics img {
+  width: 200px;
+  height: 200px;
 }
 >>>>>>> 1719bbb8b6a0ea1869d970c1529a98bf1e1900d9
