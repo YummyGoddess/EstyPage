@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: serif;
   font-weight: 300;
@@ -11,3 +12,45 @@ body {
 .nav_bar {
   box-sizing: border-box;
 }
+=======
+/*CSS reset settings here*/
+*{
+margin: 0px;
+padding: 0px;
+color: aqua;
+}
+
+.wrapper{
+    width: 1700px;
+    background-color: #3c3c5d;
+    margin: 0px auto;
+    height: 900px;
+    padding: 100px; 
+}
+.header{
+    width: 1700px;
+    background-color: yellow;
+    margin: 0px auto;
+    height: 100px;
+}
+.nav_bar{
+    width: 1700px;
+    background-color: red;
+    margin: 10px auto;
+    height: 50px;
+}
+.main{
+    width: 996px;
+    background-color:green;
+    margin: 10px auto;
+    height: 500px;
+    display: inline-block;
+}
+.side-bar{
+    width: 700px;
+    background-color: gray;
+    margin: 10px auto;
+    height: 500px;
+    display: inline-block;
+}
+>>>>>>> 1719bbb8b6a0ea1869d970c1529a98bf1e1900d9
