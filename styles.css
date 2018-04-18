@@ -5,12 +5,17 @@ padding: 0px;
 color: aqua;
 }
 
+body {
+  font-family: serif;
+  font-weight: 300;
+}
+
 .wrapper{
     width: 1700px;
     background-color: #3c3c5d;
     margin: 0px auto;
     height: 900px;
-    padding: 100px; 
+    padding: 100px;
 }
 .header{
     width: 1700px;
@@ -23,7 +28,17 @@ color: aqua;
     background-color: red;
     margin: 10px auto;
     height: 50px;
+    text-align: center;
+    word-spacing
+    display:inline;
+    word-spacing: 10px;
+    box-sizing: border-box;
 }
+
+.nav_bar li {
+  display: inline-block;
+  }
+
 .main{
     width: 996px;
     background-color:green;
@@ -44,6 +59,7 @@ color: aqua;
     height: 500px;
     display: inline-block;
 }
+
 .up_block{
     width: 700px;
     background-color: rgb(8, 3, 3);
@@ -58,4 +74,13 @@ color: aqua;
     background-color:blue;
     margin: 51px auto;
     height: 150px;
+}
+
+.pics {
+  display: inline-block;
+
+}
+.pics img {
+  width: 200px;
+  height: 200px;
 }
