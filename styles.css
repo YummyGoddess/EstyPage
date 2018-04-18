@@ -1,0 +1,13 @@
+body {
+  font-family: serif;
+  font-weight: 300;
+}
+
+
+.nav_bar li {
+  display: inline-block;
+
+  }
+.nav_bar {
+  box-sizing: border-box;
+}
